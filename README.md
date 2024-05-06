@@ -1,5 +1,5 @@
 # MP3-PLAYER-PROJECT
-This project covers fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous, and shuffle functionalities. I managed to dynamically update the music player user interface based on the current song.
+This project covers fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous, and shuffle functionalities. I managed to dynamically update the music player user interface based on the current song. Here is hyperlink to this project: https://musicplayerprojectmp3.netlify.app/
 
  ![image](https://github.com/Enockodhis/MP3-PLAYER-PROJECT/assets/107674019/df695060-d02c-4e9c-aae6-ec47ce6aa1f1)
 
